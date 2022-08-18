@@ -11,4 +11,5 @@ Genetic algorithms traded between accuracy and speed
 #### S = set of starting points
 #### A = Known Field
 A is decomposed into set of square cells of size L
-This Cell set is abstracted into #### 
+This Cell set is abstracted 
+
