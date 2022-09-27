@@ -1,5 +1,5 @@
 # Complete Coverage problem of multiple robots with different velocites for known environment
-[[Multi-Robotic]] solution for #ComepleteConverage #RobotPathPlanning  for hetrogenous fleet using Credit Model to transform the CCP problem in set of single objective #Optimization  problem, which when solved provides you with a
+[[Multi-Robotic]] solution for #ComepleteCoverage #RobotPathPlanning  for hetrogenous fleet using Credit Model to transform the CCP problem in set of single objective #Optimization  problem, which when solved provides you with a
 
 ## Related Work
 Genetic algorithms traded between accuracy and speed
